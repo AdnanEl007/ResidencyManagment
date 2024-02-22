@@ -1,0 +1,6 @@
+@ApartmentBackend_HostAddress = http://localhost:5215
+
+GET {{ApartmentBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
